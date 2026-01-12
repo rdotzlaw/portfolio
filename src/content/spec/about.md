@@ -1,7 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+This is my developer porfolio site built using [Astro](https://astro.build/) with the [Fuwari](https://github.com/saicaca/fuwari) template.
 
-::github{repo="saicaca/fuwari"}
+::github{repo="rdotzlaw/portfolio"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)

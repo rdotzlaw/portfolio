@@ -48,10 +48,13 @@ published: ${getDate()}
 description: ''
 image: ''
 tags: []
-category: ''
+category: 'University Project'
 draft: false 
-lang: ''
+lang: 'en'
 ---
+
+
+
 `
 
 fs.writeFileSync(path.join(targetDir, fileName), content)
